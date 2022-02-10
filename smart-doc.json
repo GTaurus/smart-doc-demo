@@ -1,0 +1,9 @@
+{
+  "isStrict": false,
+  "allInOne": true,
+  "outPath": "src/main/resources/META-INF/resources/apidoc",
+  "coverOld": true,
+  "createDebugPage": false,
+  "md5EncryptedHtmlName": false,
+  "projectName": "Demo"
+}
